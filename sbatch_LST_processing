@@ -1,0 +1,8 @@
+#!/bin/bash
+
+#year
+sbatch sjob_LST_processing '2019'
+#sbatch sjob_LST_processing '2020'
+#sbatch sjob_LST_processing '2021'
+#sbatch sjob_LST_processing '2022'
+#sbatch sjob_LST_processing '2023'
