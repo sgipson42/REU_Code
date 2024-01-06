@@ -28,8 +28,7 @@ We began asking questions such as:
 By asking these questions, we found that the aggregation of our mid-resolution data over a larger region does still reveal outliers, and also helps account for gaps in data. However, more research on this point would be needed to use the aggregation in finding outliers reliably.
 
 **Technical Skills Acquired:**
-
-1.Learning Python and relevant libraries such as Pandas, Geopandas, Shapely, Numpy
-2.Big data processing
-3.Data collection
-4.Data analysis and visualization with Matplotlib and Seaborn
+1. Learning Python and relevant libraries such as Pandas, Geopandas, Shapely, Numpy
+2. Big data processing
+3. Data collection
+4. Data analysis and visualization with Matplotlib and Seaborn
