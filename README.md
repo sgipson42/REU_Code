@@ -29,7 +29,7 @@ By asking these questions, we found that the aggregation of our mid-resolution d
 
 **Technical Skills Acquired:**
 
-Learning Python and relevant libraries such as Pandas, Geopandas, Shapely, Numpy
-Big data processing
-Data collection
-Data analysis and visualization with Matplotlib and Seaborn
+1.Learning Python and relevant libraries such as Pandas, Geopandas, Shapely, Numpy
+2.Big data processing
+3.Data collection
+4.Data analysis and visualization with Matplotlib and Seaborn
