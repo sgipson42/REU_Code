@@ -1,4 +1,5 @@
 #z-score CDF for 3x3 grid--one daytime, and one nighttime as separate graphs
+# use zscore_cdf_diurnal.py instead
 import sys
 import math
 import os
